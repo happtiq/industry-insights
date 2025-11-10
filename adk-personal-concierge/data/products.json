@@ -1,0 +1,114 @@
+[
+  {
+    "id": "HQ32094",
+    "brand": "happtiq",
+    "name": "Vertex Minimal — Medium Steel",
+    "description": "Clean lines and a quiet profile—built for those who like their architecture simple and resilient. A slim square case, crisp dial, and steel bracelet keep it minimal and easy to pair with dark outfits.",
+    "artifact_uri": "/assets/happtiq/HQ32094.png",
+    "attributes": {
+      "collection": "Vertex",
+      "case_material": "Stainless steel",
+      "case_size": "27 mm x 37 mm (medium)",
+      "thickness": "7.0 mm",
+      "movement": "Quartz",
+      "dial": "Silvered, Roman numerals",
+      "hands": "Blued, sword-shaped",
+      "bracelet": "Stainless steel link bracelet",
+      "buckle": "Folding clasp",
+      "water_resistance": "30 meters",
+      "crown": "Push-down, fluted",
+      "gender": "Unisex",
+      "style_tags": ["minimalistic", "everyday", "monochrome", "pairs-with-dark-outfits"]
+    }
+  },
+  {
+    "id": "HQ32107",
+    "brand": "happtiq",
+    "name": "Vertex Luxe — Medium Gold & Diamonds",
+    "description": "A luminous take on Vertex—polished gold and a subtle diamond halo. Refined, modern, and quietly confident for evenings or black-tie moments.",
+    "artifact_uri": "/assets/happtiq/HQ32107.png",
+    "attributes": {
+      "collection": "Vertex",
+      "case_material": "18K yellow gold with diamond-set bezel",
+      "case_size": "27 mm x 37 mm (medium)",
+      "thickness": "7.2 mm",
+      "movement": "Quartz",
+      "dial": "Silvered, Roman numerals",
+      "hands": "Blued, sword-shaped",
+      "bracelet": "18K yellow gold link bracelet",
+      "buckle": "Folding clasp",
+      "water_resistance": "30 meters",
+      "crown": "Push-down, fluted",
+      "diamonds": "Brilliant-cut bezel setting",
+      "gender": "Unisex",
+      "style_tags": ["dress", "evening", "gold", "elegant"]
+    }
+  },
+  {
+    "id": "HQ31145",
+    "brand": "happtiq",
+    "name": "Stratus Oval — Small Gold & Diamonds on Leather",
+    "description": "An elegant oval silhouette with a gentle curve, diamond-set bezel, and leather strap. A graceful companion for formal settings and minimal wardrobes.",
+    "artifact_uri": "/assets/happtiq/HQ31145.png",
+    "attributes": {
+      "collection": "Stratus",
+      "case_material": "18K yellow gold with diamond-set bezel",
+      "case_size": "31.6 mm x 24.5 mm (small)",
+      "thickness": "6.8 mm",
+      "movement": "Quartz",
+      "dial": "Silvered, Roman numerals",
+      "hands": "Blued, sword-shaped",
+      "strap": "Black leather",
+      "buckle": "18K yellow gold ardillon buckle",
+      "water_resistance": "30 meters",
+      "crown": "Push-down, fluted",
+      "diamonds": "Brilliant-cut bezel setting",
+      "gender": "Ladies",
+      "style_tags": ["dress", "oval", "slim", "minimalistic"]
+    }
+  },
+  {
+    "id": "HQ42026",
+    "brand": "happtiq",
+    "name": "Cumulus Classic — 42 mm Steel on Leather (Automatic)",
+    "description": "Rounded case, domed crystal, and a clear, legible dial—classic proportions with modern reliability. Automatic movement on a leather strap for daily wear.",
+    "artifact_uri": "/assets/happtiq/HQ42026.png",
+    "attributes": {
+      "collection": "Cumulus",
+      "case_material": "Stainless steel",
+      "case_diameter": "42 mm",
+      "thickness": "12.0 mm",
+      "movement": "Automatic mechanical",
+      "dial": "Silvered guilloché, Roman numerals",
+      "hands": "Blued, sword-shaped",
+      "strap": "Black alligator leather",
+      "buckle": "Double adjustable deployant clasp (steel)",
+      "water_resistance": "30 meters",
+      "crown": "Fluted",
+      "gender": "Unisex",
+      "style_tags": ["classic", "automatic", "leather", "everyday"]
+    }
+  },
+  {
+    "id": "HQ36033",
+    "brand": "happtiq",
+    "name": "Cumulus DuoTone — 36 mm Steel & Rose Gold (Automatic)",
+    "description": "Two-tone warmth meets a compact, versatile diameter. Automatic movement with a bright, textured dial—balanced for workdays and evenings alike.",
+    "artifact_uri": "/assets/happtiq/HQ36033.png",
+    "attributes": {
+      "collection": "Cumulus",
+      "case_material": "Stainless steel and 18K rose gold",
+      "case_diameter": "36 mm",
+      "thickness": "11.2 mm",
+      "movement": "Automatic mechanical",
+      "dial": "Silvered guilloché, Roman numerals",
+      "hands": "Golden, sword-shaped",
+      "bracelet": "Steel and 18K rose gold link bracelet",
+      "buckle": "Folding clasp",
+      "water_resistance": "30 meters",
+      "crown": "Fluted",
+      "gender": "Unisex",
+      "style_tags": ["two-tone", "automatic", "elegant", "compact"]
+    }
+  }
+]

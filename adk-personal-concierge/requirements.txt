@@ -1,0 +1,4 @@
+google-adk
+faiss-cpu
+sentence-transformers
+numpy

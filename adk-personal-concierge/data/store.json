@@ -1,0 +1,230 @@
+{
+  "shops": [
+    {
+      "shop_id": "shop_vienna_graben",
+      "name": "happtiq Cloud Atelier — Vienna (Graben)",
+      "location": {
+        "address": "Graben 24, 1010 Wien, Austria",
+        "city": "Vienna",
+        "country": "AT",
+        "lat": 48.2085,
+        "lng": 16.3698,
+        "timezone": "Europe/Vienna"
+      },
+      "contact": {
+        "phone": "+43 1 234 5678",
+        "email": "vienna@happtiq.example"
+      },
+      "capabilities": {
+        "in_store_viewing": true,
+        "reserve_in_store": true,
+        "ship_to_store": true,
+        "same_day_pickup": false
+      },
+      "inventory": [
+        {
+          "product_id": "HQ32094",
+          "status": "in_stock",
+          "quantity": 3,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ32107",
+          "status": "limited",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ31145",
+          "status": "out_of_stock",
+          "quantity": 0,
+          "viewing_available": false,
+          "reservation_supported": true,
+          "transfer_eta_days": 5,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ42026",
+          "status": "in_stock",
+          "quantity": 2,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ36033",
+          "status": "in_stock",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        }
+      ],
+      "opening_hours": {
+        "mon_fri": "10:00-19:00",
+        "sat": "10:00-18:00",
+        "sun": "Closed"
+      }
+    },
+    {
+      "shop_id": "shop_munich_maximilianstrasse",
+      "name": "happtiq Cloud Atelier — Munich (Maximilianstraße)",
+      "location": {
+        "address": "Maximilianstraße 11, 80539 München, Germany",
+        "city": "Munich",
+        "country": "DE",
+        "lat": 48.1392,
+        "lng": 11.5795,
+        "timezone": "Europe/Berlin"
+      },
+      "contact": {
+        "phone": "+49 89 1234 567",
+        "email": "munich@happtiq.example"
+      },
+      "capabilities": {
+        "in_store_viewing": true,
+        "reserve_in_store": true,
+        "ship_to_store": true,
+        "same_day_pickup": true
+      },
+      "inventory": [
+        {
+          "product_id": "HQ32094",
+          "status": "out_of_stock",
+          "quantity": 0,
+          "viewing_available": false,
+          "reservation_supported": true,
+          "transfer_eta_days": 3,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ32107",
+          "status": "in_stock",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ31145",
+          "status": "in_stock",
+          "quantity": 2,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ42026",
+          "status": "limited",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ36033",
+          "status": "out_of_stock",
+          "quantity": 0,
+          "viewing_available": false,
+          "reservation_supported": true,
+          "transfer_eta_days": 6,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        }
+      ],
+      "opening_hours": {
+        "mon_sat": "10:00-19:00",
+        "sun": "Closed"
+      }
+    },
+    {
+      "shop_id": "shop_zurich_bahnhofstrasse",
+      "name": "happtiq Cloud Atelier — Zurich (Bahnhofstrasse)",
+      "location": {
+        "address": "Bahnhofstrasse 40, 8001 Zürich, Switzerland",
+        "city": "Zurich",
+        "country": "CH",
+        "lat": 47.3717,
+        "lng": 8.5386,
+        "timezone": "Europe/Zurich"
+      },
+      "contact": {
+        "phone": "+41 44 765 4321",
+        "email": "zurich@happtiq.example"
+      },
+      "capabilities": {
+        "in_store_viewing": true,
+        "reserve_in_store": true,
+        "ship_to_store": true,
+        "same_day_pickup": false
+      },
+      "inventory": [
+        {
+          "product_id": "HQ32094",
+          "status": "limited",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ32107",
+          "status": "out_of_stock",
+          "quantity": 0,
+          "viewing_available": false,
+          "reservation_supported": true,
+          "transfer_eta_days": 7,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ31145",
+          "status": "in_stock",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ42026",
+          "status": "out_of_stock",
+          "quantity": 0,
+          "viewing_available": false,
+          "reservation_supported": true,
+          "transfer_eta_days": 4,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        },
+        {
+          "product_id": "HQ36033",
+          "status": "in_stock",
+          "quantity": 1,
+          "viewing_available": true,
+          "reservation_supported": true,
+          "transfer_eta_days": 0,
+          "last_updated": "2025-10-13T10:00:00+02:00"
+        }
+      ],
+      "opening_hours": {
+        "mon_fri": "10:00-18:30",
+        "sat": "10:00-18:00",
+        "sun": "Closed"
+      }
+    }
+  ],
+  "status_legend": {
+    "in_stock": "Available in boutique now",
+    "limited": "Very low quantity; call to confirm",
+    "out_of_stock": "Not available in boutique; transfer or waitlist"
+  }
+}
