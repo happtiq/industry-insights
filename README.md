@@ -10,7 +10,6 @@ A collection of code samples from the "happtiq Industry Insights" series, showca
 ## Getting Started
 1) Clone the repo: `git clone https://github.com/your-org/industry-insights.git`
 2) Pick a project folder and read its `README.md` for prerequisites, setup, and run steps.
-3) Optional: create and activate a Python or Node virtual environment as required by the project.
 
 ## Common Requirements
 - A Google Cloud project with sufficient permissions for the services used in each sample.
