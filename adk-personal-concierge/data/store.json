@@ -7,8 +7,6 @@
         "address": "happtiqstrasse 10, 1010 Wien, Austria",
         "city": "Vienna",
         "country": "AT",
-        "lat": 48.2085,
-        "lng": 16.3698,
         "timezone": "Europe/Vienna"
       },
       "contact": {
@@ -81,8 +79,6 @@
         "address": "happtiqstrasse 15, 80539 München, Germany",
         "city": "Munich",
         "country": "DE",
-        "lat": 48.1392,
-        "lng": 11.5795,
         "timezone": "Europe/Berlin"
       },
       "contact": {
@@ -154,8 +150,6 @@
         "address": "happtiqstrasse 20, 8001 Zürich, Switzerland",
         "city": "Zurich",
         "country": "CH",
-        "lat": 47.3717,
-        "lng": 8.5386,
         "timezone": "Europe/Zurich"
       },
       "contact": {
