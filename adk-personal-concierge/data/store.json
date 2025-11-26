@@ -1,10 +1,10 @@
 {
   "shops": [
     {
-      "shop_id": "shop_vienna_graben",
-      "name": "happtiq Cloud Atelier — Vienna (Graben)",
+      "shop_id": "shop_vienna",
+      "name": "happtiq Cloud Atelier — Vienna",
       "location": {
-        "address": "Graben 24, 1010 Wien, Austria",
+        "address": "happtiqstrasse 10, 1010 Wien, Austria",
         "city": "Vienna",
         "country": "AT",
         "lat": 48.2085,
@@ -13,7 +13,7 @@
       },
       "contact": {
         "phone": "+43 1 234 5678",
-        "email": "vienna@happtiq.example"
+        "email": "vienna@happtiq.com"
       },
       "capabilities": {
         "in_store_viewing": true,
@@ -75,10 +75,10 @@
       }
     },
     {
-      "shop_id": "shop_munich_maximilianstrasse",
-      "name": "happtiq Cloud Atelier — Munich (Maximilianstraße)",
+      "shop_id": "shop_munich",
+      "name": "happtiq Cloud Atelier — Munich",
       "location": {
-        "address": "Maximilianstraße 11, 80539 München, Germany",
+        "address": "happtiqstrasse 15, 80539 München, Germany",
         "city": "Munich",
         "country": "DE",
         "lat": 48.1392,
@@ -87,7 +87,7 @@
       },
       "contact": {
         "phone": "+49 89 1234 567",
-        "email": "munich@happtiq.example"
+        "email": "munich@happtiq.com"
       },
       "capabilities": {
         "in_store_viewing": true,
@@ -148,10 +148,10 @@
       }
     },
     {
-      "shop_id": "shop_zurich_bahnhofstrasse",
-      "name": "happtiq Cloud Atelier — Zurich (Bahnhofstrasse)",
+      "shop_id": "shop_zurich",
+      "name": "happtiq Cloud Atelier — Zurich",
       "location": {
-        "address": "Bahnhofstrasse 40, 8001 Zürich, Switzerland",
+        "address": "happtiqstrasse 20, 8001 Zürich, Switzerland",
         "city": "Zurich",
         "country": "CH",
         "lat": 47.3717,
@@ -160,7 +160,7 @@
       },
       "contact": {
         "phone": "+41 44 765 4321",
-        "email": "zurich@happtiq.example"
+        "email": "zurich@happtiq.com"
       },
       "capabilities": {
         "in_store_viewing": true,
