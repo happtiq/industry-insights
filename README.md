@@ -1,6 +1,6 @@
 # Industry Insights
 
-A collection of code samples from the "happtiq Industry Insights" series, showcasing Google Cloud patterns across real-world scenarios. Each subfolder pairs with a blog post that explains the story, architecture, and key design decisions.
+A collection of code samples from the "happtiq Industry Insights" series, showcasing Google Cloud patterns across real-world scenarios. Each subfolder pairs with a LinkedIn post that explains the story, architecture, and design decisions.
 
 ## What’s Inside
 - **Project directories**: One folder per story/example; see each `README.md` for setup and context.
@@ -16,4 +16,4 @@ A collection of code samples from the "happtiq Industry Insights" series, showca
 - Local tooling as noted in each project.
 
 ## Learn More
-Follow our "Industry Insights" series on our [blog](https://www.happtiq.com/blog), as well as our [LinkedIn](https://www.linkedin.com/company/happtiq/) page.
+Follow our "Industry Insights" series on our [LinkedIn](https://www.linkedin.com/company/happtiq/) page.
